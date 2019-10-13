@@ -1,3 +1,3 @@
-# firstRepo
+# My first github website hello world!
 
-First repo for github
+A simple hello world.
