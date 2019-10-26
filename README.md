@@ -1,3 +1,3 @@
 # firstRepo
 
-First repo for github
+First repo for github with basic html css and javascript
